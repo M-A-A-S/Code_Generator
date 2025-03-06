@@ -7,9 +7,6 @@ This tool significantly speeds up development, reduces repetitive coding, and en
 
 ## 🚀 Key Features
 ✅ **Automated Code Generation** – Generates complete layers (DAL, BLL, API).  
-<!--  
-✅ **Multi-Database Support** – Works with **SQL Server, MySQL, PostgreSQL**, and more.  
--->
 ✅ **Scalable & Maintainable** – Follows **clean architecture** principles.  
 ✅ **REST API Ready** – Generates controllers with CRUD endpoints. 
 
