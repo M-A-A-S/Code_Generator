@@ -1,0 +1,12 @@
+# Ignore Visual Studio and build artifacts
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.cache
+*.log
+*.sqlite
+*.db
+appsettings.json
+appsettings.Development.json
