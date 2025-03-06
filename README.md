@@ -14,7 +14,7 @@ This tool significantly speeds up development, reduces repetitive coding, and en
 
 - **Frontend:** Console UI
 - **Backend:** .NET Core, C#
-- **Database:** SQL Server with ADO.NEt
+- **Database:** SQL Server with ADO.NET
 
 ## ✉️ Contact
 
