@@ -1,2 +1,25 @@
-# Code_Generator
-This application generates data access, business, and API layers based on a database.
+# ⚡ .NET Core Code Generator
+
+## 📌 Description
+
+A **powerful and flexible** .NET Core application that automates the generation of **Data Access Layer (DAL)**, **Business Logic Layer (BLL)**, and **REST API** based on a database schema.  
+This tool significantly speeds up development, reduces repetitive coding, and ensures **clean architecture** for maintainable projects.  
+
+## 🚀 Key Features
+✅ **Automated Code Generation** – Generates complete layers (DAL, BLL, API).  
+<!--  
+✅ **Multi-Database Support** – Works with **SQL Server, MySQL, PostgreSQL**, and more.  
+-->
+✅ **Scalable & Maintainable** – Follows **clean architecture** principles.  
+✅ **REST API Ready** – Generates controllers with CRUD endpoints. 
+
+## 🛠 Tech Stack
+
+- **Frontend:** Console UI
+- **Backend:** .NET Core, C#
+- **Database:** SQL Server with ADO.NEt
+
+## ✉️ Contact
+
+For any queries, reach out at [mohammedalfatih606@gmail.com](mailto:mohammedalfatih606@gmail.com)
+
